@@ -45,9 +45,15 @@ Dinner and after party is Business Casual -> Slightly nice than that. Tie fully 
 ## Schedule
 Full details incoming
 The one required time is Saturday from 4 PM -> Too Tired
+
 4 is pictures
+
 5 is Vows
-6 is cocktails and some speaches
+
+6 is cocktails and some speeches
+
 7 -> 9 is dinner
+
 9 -> 11 is party in the barn
+
 11 -> Sleep is continue to party but in smaller groups as people go off to bed
