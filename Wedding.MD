@@ -35,11 +35,11 @@ All activities and amenities are free or already paid for. You only need to pay 
 * Dinner Friday and Sunday (We will have locations we are gathering for both). 
 * Lunch Friday and Saturday
 ## Rooms
-Andrew, Steve, Mark and Josh are sharing a room - Junior Suite 5 https://innatpleasantlake.com/jr-suite5.html
-Erik, Alison, Chris and Meghan are sharing a room. - Junior Suite 4 https://innatpleasantlake.com/jr-suite4.html
-Nisha and Lauren will be sharing a room - Junior Suite 1 or 12
-Grandparents will each get a suite unless they don't want it. Unclear on upgrade order in that case
-Parents, Rachel and Kris, Allie and Theo and Alex and Serena Will have Queen Bed in a room.
+* Andrew, Steve, Mark and Josh are sharing a room - Junior Suite 5 https://innatpleasantlake.com/jr-suite5.html
+* Erik, Alison, Chris and Meghan are sharing a room. - Junior Suite 4 https://innatpleasantlake.com/jr-suite4.html
+* Nisha and Lauren will be sharing a room - Junior Suite 1 or 12
+* Grandparents will each get a suite unless they don't want it. Unclear on upgrade order in that case
+* Parents, Rachel and Kris, Allie and Theo and Alex and Serena Will have Queen Bed in a room.
 ## Dress Code
 Dinner and after party is Business Casual -> Slightly nice than that. Tie fully optional
 ## Schedule
