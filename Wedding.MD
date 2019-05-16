@@ -12,7 +12,10 @@
 Friday September 27th to Monday September 30th
 ## Times
 Check In is Friday 3:00 PM check out Monday 11:00 AM
+## Website for further reading
+https://innatpleasantlake.com/
 ## Activites
+All activities and amenities are free or already paid for. You only need to pay for things outside this scope or in the You Need to Pay for section.
 ### Outdoors
 * Hanging Out Near a Lake
 * Lawn Sports
