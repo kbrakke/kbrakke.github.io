@@ -43,17 +43,31 @@ All activities and amenities are free or already paid for. You only need to pay 
 ## Dress Code
 Dinner and after party is Business Casual -> Slightly nice than that. Tie fully optional
 ## Schedule
-Full details incoming
-The one required time is Saturday from 4 PM -> Too Tired
+Every time not listed is free time. We trust you to be ready on Saturday the only manditory events.
+### Friday
+| Start Time | Event                                                |
+|------------|------------------------------------------------------|
+| 3 PM       | Checkin Begins                                       |
+| 6:30 PM    | Group dinner at [Flying Goose Brew Pub](http://www.flyinggoose.com/)|
 
-4 is pictures
+### Saturday
+The events today are the only manditory events. 
+| Start Time | Event                                                |
+|------------|------------------------------------------------------|
+| 4 PM       | Wedding Photos                                       |
+| 5 PM       | Vows                                                 |
+| 6 PM       | Cocktails and Speeches                               |
+| 7 PM       | Dinner is Served                                     |
+| 9 PM       | Party in the Barn                                    |
+| 11 PM      | Continue to party, but in smaller groups until tired |
 
-5 is Vows
+### Sunday
+|Start Time| Event |
+|----------|-------------------|
+|11:00 AM  | Brunch |
+|6:30 PM   | Dinner At [Peter Christian's Tavern](https://peterchristiansnh.com)|
 
-6 is cocktails and some speeches
-
-7 -> 9 is dinner
-
-9 -> 11 is party in the barn
-
-11 -> Sleep is continue to party but in smaller groups as people go off to bed
+### Monday
+|Start Time| Event |
+|----------|-------|
+|11:00 AM  | Checkout|
